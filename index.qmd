@@ -1,6 +1,8 @@
 ---
 title: "My First Website"
-author: "Aashna"
-format: html
 ---
+
+```{r}
+library(tidyverse)
+```
 
